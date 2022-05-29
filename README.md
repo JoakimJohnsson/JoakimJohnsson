@@ -1,11 +1,6 @@
-# Hi there 👋
+# Joakim Johnsson
 
-## 
-
-![Joakim's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoakimJohnsson&show_icons=true&theme=radical&count_private=true)
-
-
-
+Developer at Stockholm university.
 
 ## Statistics
 ### Including private repository's (2022)
