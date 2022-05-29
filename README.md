@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Recent activity
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<!--START_SECTION:activity-->
-
 ##Statistics
 ###Including private repository's (2022)
 <!-- README STATS -https://github.com/anuraghazra/github-readme-stats -->
