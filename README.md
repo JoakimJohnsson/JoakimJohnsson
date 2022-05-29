@@ -1,8 +1,7 @@
 # Hello! 😄
 
-My name is Joakim, and I've been working as a frontend / java developer at Stockholm university since 2017. 
-
-My main strengths are my interests in accessibility, UX and writing clean code.
+My name is Joakim, and I've been working as a frontend / java developer at Stockholm university since 2017. My main strengths are my interests in 
+accessibility, UX and writing clean code.
 
 ## Top Languages - personal projects
 <!-- README STATS -https://github.com/anuraghazra/github-readme-stats -->
@@ -38,7 +37,7 @@ My main strengths are my interests in accessibility, UX and writing clean code.
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
-Favorite learning platforms
+## Favorite learning platforms
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 ![Pluralsight](https://img.shields.io/badge/Pluralsight-EE3057?style=for-the-badge&logo=pluralsight&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
