@@ -7,6 +7,8 @@ accessibility, UX and writing clean code.
 <!-- README STATS -https://github.com/anuraghazra/github-readme-stats -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoakimJohnsson&layout=compact&theme=dracula&hide_title=true&hide=css&langs_count=10)
 
+<!-- BADGES -https://github.com/Ileriayo/markdown-badges -->
+
 ## Weapons of choice
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
